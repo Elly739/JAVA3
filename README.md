@@ -39,6 +39,3 @@ What to screenshot for the assignment:
   sqlite> SELECT * FROM students;
   ```
 
-Notes:
-- If you want the class packaged differently or prefer a different class name, I can update imports/README accordingly.
-- If you'd like this converted to a Maven project (pom.xml with sqlite JDBC dependency) or zipped up for upload to GitHub, tell me and I will prepare it.
